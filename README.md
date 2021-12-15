@@ -22,7 +22,7 @@
  
 <img src="https://media0.giphy.com/media/lr7bF4mOc53LwMkaJz/giphy.gif?cid=ecf05e4710sl9bbqexarhxrhignn69voze6w4x7nnu1g6mns&rid=giphy.gif&ct=s" width="50"> **Top Langs**
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lariokabayashi&layout=compact)](https://github.com/lariokabayashi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lariokabayashi&layout=compact)](https://github.com/lariokabayashi/github-readme-stats)
  
  
  
