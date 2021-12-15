@@ -3,7 +3,7 @@
 <p><em>Engenheira da Computação em formação na <a href="https://www.unicamp.br/unicamp/">Unicamp</a><img src="https://media3.giphy.com/media/JOAWuYQBo4UJZI8XLA/giphy.gif" width="30"></br></em></p>
 
 [![Spotify Badge](https://img.shields.io/badge/lari-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31awmoeevqhnxxsqphceigodfbja)](https://open.spotify.com/user/31awmoeevqhnxxsqphceigodfbja)
-[![Linkedin: lariokabayashi](https://img.shields.io/badge/-larissaokabayashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-okabayashi/)](https://www.linkedin.com/in/larissa-okabayashi/)
+[![Linkedin: lariokabayashi](https://img.shields.io/badge/-larissaokabayashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-okabayashi-ab1648220/)](https://www.linkedin.com/in/larissa-okabayashi-ab1648220/)
 [![Gmail Badge](https://img.shields.io/badge/-lariokabayashi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lariokabayashi@gmail.com)](mailto:lariokabayashi@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@lariokabayashi-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/lariokabayashi)](https://instagram.com/lariokabayashi)
 [![GitHub lariokabayashi](https://img.shields.io/github/followers/lariokabayashi?label=follow&style=social)](https://github.com/lariokabayashi)
