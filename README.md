@@ -1,6 +1,6 @@
-<h2> Oii, eu sou a Larissa ! <img src="https://media0.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif?cid=ecf05e47btw5mcz0bwilzbsrhg87gc95plu6zay0a34o6uci&rid=giphy.gif&ct=s" width="50"></h2>
+<h2> Hi there, I'm Larissa ! <img src="https://media0.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif?cid=ecf05e47btw5mcz0bwilzbsrhg87gc95plu6zay0a34o6uci&rid=giphy.gif&ct=s" width="50"></h2>
 
-<p><em>Engenheira da Computação em formação na <a href="https://www.unicamp.br/unicamp/">Unicamp</a><img src="https://media3.giphy.com/media/JOAWuYQBo4UJZI8XLA/giphy.gif" width="30"></br></em></p>
+<p><em>Computer engineering at <a href="https://www.unicamp.br/unicamp/">Unicamp</a><img src="https://media3.giphy.com/media/JOAWuYQBo4UJZI8XLA/giphy.gif" width="30"></br></em></p>
 
 [![Spotify Badge](https://img.shields.io/badge/lari-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31awmoeevqhnxxsqphceigodfbja)](https://open.spotify.com/user/31awmoeevqhnxxsqphceigodfbja)
 [![Linkedin: lariokabayashi](https://img.shields.io/badge/-larissaokabayashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-okabayashi-ab1648220/)](https://www.linkedin.com/in/larissa-okabayashi-ab1648220/)
@@ -10,9 +10,9 @@
 
 ### <img align='right' src="https://media1.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif?cid=ecf05e47vwulprc0o1355rju59hjote7hm50atjord1xyjl8&rid=giphy.gif&ct=s" width="300">
 
-### Um pouco mais sobre mim...<img src="https://media3.giphy.com/media/ErkrwVSN4Bc1Dk7Wiq/giphy.gif" width="50">
+### A little more about me...<img src="https://media3.giphy.com/media/ErkrwVSN4Bc1Dk7Wiq/giphy.gif" width="50">
 
-**Linguagens e ferramentas**:
+**Languages and Tools**:
     
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
