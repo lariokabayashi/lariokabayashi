@@ -1,12 +1,13 @@
-<h2> Hi there, I'm Larissa ! <img src="https://media0.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif?cid=ecf05e47btw5mcz0bwilzbsrhg87gc95plu6zay0a34o6uci&rid=giphy.gif&ct=s" width="50"></h2>
+<h2> Hi! <img src="https://media0.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif?cid=ecf05e47btw5mcz0bwilzbsrhg87gc95plu6zay0a34o6uci&rid=giphy.gif&ct=s" width="50"></h2>
 
-<p><em>Computer engineering at <a href="https://www.unicamp.br/unicamp/">Unicamp</a><img src="https://media3.giphy.com/media/JOAWuYQBo4UJZI8XLA/giphy.gif" width="30"></br></em></p>
+My name is **Larissa**, I'm 21 years old and I'm studying **Computer Engineering** at Unicamp 📚. I am currently a student at the **Apple Developer Academy in Campinas** 👩🏻‍💻, where I develop iOS applications and a member of **Unicamp e-racing** 🏎️ , an extracurricular that develops electric and autonomous cars
+
+**Connect With Me**:
 
 [![Linkedin: lariokabayashi](https://img.shields.io/badge/-larissaokabayashi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-okabayashi-ab1648220/)](https://www.linkedin.com/in/larissa-okabayashi-ab1648220/)
 [![Gmail Badge](https://img.shields.io/badge/-lariokabayashi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lariokabayashi@gmail.com)](mailto:lariokabayashi@gmail.com)
 [![GitHub lariokabayashi](https://img.shields.io/github/followers/lariokabayashi?label=follow&style=social)](https://github.com/lariokabayashi)
 
-### <img align='right' src="https://media1.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif?cid=ecf05e47vwulprc0o1355rju59hjote7hm50atjord1xyjl8&rid=giphy.gif&ct=s" width="300">
 
 ### A little more about me...<img src="https://media3.giphy.com/media/ErkrwVSN4Bc1Dk7Wiq/giphy.gif" width="50">
 
