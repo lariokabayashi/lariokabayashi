@@ -17,7 +17,7 @@ My name is **Larissa**, I'm 21 years old and I'm studying **Computer Engineering
  
 <img src="https://media0.giphy.com/media/lr7bF4mOc53LwMkaJz/giphy.gif?cid=ecf05e4710sl9bbqexarhxrhignn69voze6w4x7nnu1g6mns&rid=giphy.gif&ct=s" width="50"> **Top Langs**
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lariokabayashi&count_private=true&layout=compact)](https://github.com/lariokabayashi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lariokabayashi&&hide=HTML,CSS,Dockerfile&layout=donut&hide_border=true&theme=vue)](https://github.com/ka1ine/github-readme-stats)
  
  
  
